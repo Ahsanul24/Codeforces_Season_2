@@ -1,0 +1,1 @@
+{"name":"Local: Bipartate_check","url":"e:\\Codeforces_Season_2\\Bipartate_check.cpp","tests":[{"id":1739199469156,"input":"6 5\n0 1\n1 2\n2 3\n3 4\n4 0","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces_Season_2\\Bipartate_check.cpp","group":"local","local":true}
